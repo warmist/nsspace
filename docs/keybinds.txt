@@ -1,0 +1,52 @@
+In normal mode:
+! toggle debug
+5 indebug sets tile
+[ removes top layer
+] adds material to top
+D removes entity
+e adds window
++ increase radius
+- dec radius
+o liquid sim step
+a add wall
+A add floor
+s save map (in debug only)
+z pause sim (debug only)
+c close doors?
+n toggle noclip
+N something
+M path to marked
+m ?? something
+u add fighter
+b add fire
+x add glow?
+X add items?
+y/h change selected item
+j/k change selected material type
+d add door
+B,w,W something
+/ to tile editor
+
+In tile editor mode:
+. marks current tile
+c changes create new mode
+C creates new subspace
+b places floor
+B places grate
+i increases temp (by 100)
+u dec. temp
+l changes locked ?
+<numpad> moves/or creates/connects tiles
+< down
+> up
+p connects current to marked in north
+w inc temp in marked 
+W inc temp in marked 1000
+s
+S dec temp in marked
+5 add material to current tile
+t places fountain
+g places eater
+[/] changes something
+-/= changes something else
+d places, removes doors?

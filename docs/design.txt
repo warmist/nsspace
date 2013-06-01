@@ -1,0 +1,15 @@
+Meta layer interaction:
+	portalai i meta layeri, kur pakeitus pasikeicia normalus layeris
+Pgl forum game'a sukurt rule seta magijai!
+Magija:
+	kaip puzlis.
+	no randomness(ish vienodu puzliu vienodos magijos)(gali but random rule setas(pradinis))
+	kazkokia logika, kuria perprast butu sunku...
+
+Elements, catalyst, nodes,energy(w types)
+elementas ishskyla i banga, atsimusime susirenka
+Problems? solved not solved ... pvz: fire ball: problema, temp feedback tu atsali, bet galima perstaty kad to nebutu
+	pvz:
+		failinantis spellas nereportuojamas kaip failines kol castint nepabandai
+
+	
